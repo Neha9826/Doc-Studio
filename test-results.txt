@@ -1,0 +1,19 @@
+
+> ajaia-docs-mvp@1.0.0 test
+> node --test
+
+✔ creates, sanitizes, and persists a document (252.5252ms)
+✔ authentication supports signup, login, and rejects invalid credentials (207.0337ms)
+✔ enforces share access and read-only permissions (232.2229ms)
+✔ imports supported text files as editable documents (184.7646ms)
+✔ creates version history, restores an earlier version, and exports Markdown (217.6924ms)
+✔ owner can delete a document and its related history/shares (184.9662ms)
+✔ AI copilot requires authentication and enforces document visibility (227.2933ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1984.4775
